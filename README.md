@@ -58,7 +58,7 @@ config.php  相关配置
 1.新建sh文件，send_email.sh,增加可执行权限，内如如下：
 
 ```
-\#!/bin/bash
+#!/bin/bash
 
 /opt/php54/bin/php /data/vhost/test/crazy/index.php
 
